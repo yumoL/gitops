@@ -6,7 +6,7 @@ on:
       - master
     paths:
       - 'app/**'
-      - '.github/workflows/main.yml'
+      - '.github/workflows/main.yaml'
       
 env:
   REPO: yumol/hashgen
