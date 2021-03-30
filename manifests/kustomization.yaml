@@ -5,4 +5,4 @@ resources:
 images:
 - name: IMAGE_PLACEHOLDER
   newName: yumol/hashgen
-  newTag: 5e7dbe06e256b14260dbb5ba74dc045f5e96493f
+  newTag: 8bb6746b5d646327b5c435343bccb141b10e7615
