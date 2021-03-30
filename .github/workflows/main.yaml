@@ -23,7 +23,7 @@ jobs:
     - name: Publish to Registry
       uses: docker/build-push-action@v1
       with:
-        repository: "$REPO"
+        repository: yumol/hashgen
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
         tags: ${{ github.sha }}
